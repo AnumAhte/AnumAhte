@@ -131,7 +131,7 @@ I'm open to **freelance projects**, **contract work**, and **full-time roles** â
 <div align="center">
 
 [![Email](https://img.shields.io/badge/anumahtesham2026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anumahtesham2026@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anum-ahte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anum-ahtesham-7308a42b6)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnumAhte)
 
 </div>
